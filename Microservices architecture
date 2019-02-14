@@ -1,0 +1,16 @@
+Microservices architecture benefits
+ 
+
+Software built as microservices can be broken down into multiple component services. So that each of these services can be deployed and then redeployed independently without compromising the integrity of an application. That means that microservice architecture gives developers the freedom to independently develop and deploy services.
+Better fault isolation. If one microservice fails, the other will continue to work
+Code for different services can be written in different languages
+Easy integration and automatic deployment; using open-source continuous integration tools such as Jenkins, etc.
+The microservice architecture enables continuous delivery
+Easy to understand since they represent the small piece of functionality and easy to modify for developers, thus can help a new team member become productive quickly
+The code is organized around business capabilities
+Scalability and reusability, as well as efficiency. Easy to scale and integrate with third-party services
+Components can be spread around multiple servers or even multiple data centers
+Work very well with containers, such as Docker
+Complement cloud activities
+Microservices simplifies security monitoring because the various parts of an app are isolated. A security problem could happen in one section without affecting other areas of the project
+Increase the autonomy of individual development teams within an organization, as ideas can be implemented and deployed without having to coordinate with a wider IT delivery function
